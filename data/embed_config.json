@@ -1,7 +1,3 @@
-{
-  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
-  "normalize_embeddings": true,
-  "batch_size": 64,
-  "n_chunks": 16256,
-  "embedding_dim": 384
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:428a275f58ea9fb2eebd857f19872e70b5a3fd72199e9f42b976632da91a3c4b
+size 163

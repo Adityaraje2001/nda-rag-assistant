@@ -1,9 +1,3 @@
-{
-    "python-envs.pythonProjects": [
-        {
-            "path": "src",
-            "envManager": "ms-python.python:venv",
-            "packageManager": "ms-python.python:pip"
-        }
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:454fa6f182a82fd5f27834bfd45b9416b92fea293caa4f8ac54498c25ad1c07f
+size 204
