@@ -1,0 +1,7 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "normalize_embeddings": true,
+  "batch_size": 64,
+  "n_chunks": 16256,
+  "embedding_dim": 384
+}

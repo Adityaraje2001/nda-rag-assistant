@@ -1,0 +1,15 @@
+# Core UI
+gradio==4.44.0
+
+# LLM client + HTTP
+openai>=1.30.0
+requests>=2.31.0
+
+# Embeddings / RAG stack
+sentence-transformers>=2.6.1
+faiss-cpu==1.8.0
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Optional: env loader for local dev (Spaces uses Secrets)
+python-dotenv>=1.0.1
